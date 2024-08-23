@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "FootballManager.Development",
   "resources": {
-    "hash": "sha256-Im/aAtgOi7EtaYpuak0VzGxs5ybxcNw49Xo7iJXVA8s=",
+    "hash": "sha256-cvZHDiHvOSLTFPrqhzmvEDAOANIQtzF+ITeX21vkpD0=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.pl6r3anb90.js": "sha256-Le2jqNcVgX63P2OF2bKuy86lTKLIhDyZBoPWDbZGNa8="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "FootballManager.Development.wasm": "sha256-Pkz1UO7rPJ/S9jl9w2CIXp0ddpVMzh6eVDwzuTUwcdg=",
+      "FootballManager.Development.wasm": "sha256-ZwdrczDFC/1jntXEbc9/wgNkk+8wXVIUOGNLVvyqMjg=",
       "Microsoft.AspNetCore.Authorization.wasm": "sha256-j29bzsbGr0GXbz3saSOBqDtWxNOK08Or3b1HgnZ+pvA=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-v5x7jiwdpMdHj54wA/JoDsrCrnr89XklOokSoWNJzF0=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-0SRqG4hZOVUUFxERmD93PJWBJR6d4gCf5UB9vF6jB9A=",
